@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      "poloniex.js@*",
+      "/home/highlander/projects/arbiter"
+    ]
+  ],
+  "_from": "poloniex.js@*",
+  "_id": "poloniex.js@0.0.6",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/poloniex.js",
+  "_npmUser": {
+    "email": "p@premasagar.com",
+    "name": "premasagar"
+  },
+  "_npmVersion": "1.4.14",
+  "_phantomChildren": {
+    "aws-sign2": "0.5.0",
+    "forever-agent": "0.5.2",
+    "form-data": "0.1.4",
+    "hawk": "1.0.0",
+    "http-signature": "0.10.1",
+    "json-stringify-safe": "5.0.1",
+    "mime": "1.2.11",
+    "node-uuid": "1.4.0",
+    "oauth-sign": "0.3.0",
+    "qs": "0.6.6",
+    "tunnel-agent": "0.3.0"
+  },
+  "_requested": {
+    "name": "poloniex.js",
+    "raw": "poloniex.js@*",
+    "rawSpec": "*",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/poloniex.js/-/poloniex.js-0.0.6.tgz",
+  "_shasum": "ac19fd1fac6f3b54efeac795bb48bb6fab1b8a7d",
+  "_shrinkwrap": null,
+  "_spec": "poloniex.js@*",
+  "_where": "/home/highlander/projects/arbiter",
+  "author": {
+    "email": "p@premasagar.com",
+    "name": "Premasagar Rose"
+  },
+  "bugs": {
+    "url": "https://github.com/premasagar/poloniex.js/issues"
+  },
+  "dependencies": {
+    "nonce": "~1.0.3",
+    "request": "~2.33.0"
+  },
+  "description": "Poloniex API client",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ac19fd1fac6f3b54efeac795bb48bb6fab1b8a7d",
+    "tarball": "https://registry.npmjs.org/poloniex.js/-/poloniex.js-0.0.6.tgz"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "gitHead": "4da311afbe00af553f9fc0acc48d1bd7b4d28585",
+  "homepage": "https://github.com/premasagar/poloniex.js",
+  "keywords": [
+    "poloniex",
+    "bitcoin",
+    "cryptocurrency",
+    "exchange",
+    "altcoins"
+  ],
+  "license": "MIT",
+  "main": "lib/poloniex",
+  "maintainers": [
+    {
+      "email": "p@premasagar.com",
+      "name": "premasagar"
+    }
+  ],
+  "name": "poloniex.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premasagar/poloniex.js.git"
+  },
+  "scripts": {},
+  "version": "0.0.6"
+}

@@ -1,0 +1,6 @@
+creation_rules:
+  - path_regex: stage\.json
+    kms: 'arn:aws:kms:eu-west-1:<redacted>:alias/eks-megacluster+arn:aws:iam::<redacted>:role/eks-megacluster-secrets'
+
+  - path_regex: prod\.json
+    kms: 'arn:aws:kms:eu-west-1:<redacted>:alias/eks-megacluster+arn:aws:iam::<redacted>:role/eks-megacluster-secrets'

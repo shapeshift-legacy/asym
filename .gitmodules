@@ -1,0 +1,3 @@
+[submodule "shapeshift-whitelists"]
+	path = shapeshift-whitelists
+	url = git@github.com:shapeshift-legacy/shapeshift-whitelists.git
